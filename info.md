@@ -1,4 +1,4 @@
-[< к содержанию](./readme.md)
+[< Вернуться к содержанию](./readme.md)
 
 Git — самая популярная распределённая система контроля версиями [1](.https://tagline.ru/version-control-systems-rating/) и [2](.https://habr.com/ru/post/233935/)
 
