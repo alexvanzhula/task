@@ -1,4 +1,4 @@
-# инструкция по работе с GIT
+# Инструкция по работе с GIT
 
 LICENSE: [MIT](./licence.md) 
 ![git-logo](./Git-logo.svg.png)
