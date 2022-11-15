@@ -21,4 +21,6 @@
 17. Git for Teams (2015) — Emma Jane Hogbin Westby
 
 
-[Git](./https://habr.com/ru/hub/git/) </br>[Системы управления версиями](./https://habr.com/ru/hub/cvs/)
+[Git](./https://habr.com/ru/hub/git/) 
+
+[Системы управления версиями](./https://habr.com/ru/hub/cvs/)
