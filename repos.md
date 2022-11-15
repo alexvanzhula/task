@@ -30,6 +30,5 @@ git clone [<опции>]
   ```bash=
   --separate-git-dir 
   ```
-
   ## [< Вернуться к содержанию](./readme.md)
 
