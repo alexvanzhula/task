@@ -1,6 +1,3 @@
-[< Вернуться к содержанию](./readme.md)
-
-
 
 Для создания ветки используйте
 
@@ -12,3 +9,6 @@ git branch <branch_name> [<start_commit>]
 Опции git branch:
 
 ![git-logo](./operitions.png)
+
+
+## [< Вернуться к содержанию](./readme.md)

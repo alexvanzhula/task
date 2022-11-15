@@ -1,4 +1,4 @@
-[< к содержанию](./readme.md)
+
 
 
 
@@ -13,3 +13,6 @@ $ git config --global user.email "укажите почту" </br> </br> *(https
 
 ```bash=
 git login .
+```
+
+## [< Вернуться к содержанию](./readme.md)
