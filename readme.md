@@ -21,7 +21,7 @@ LICENSE: [MIT](./licence.md)
 13. [Указатели в git >>>](./cursors.md)
 14. [Перемещение указателей >>>](./move_cursors.md)
 15. [Рекомендуемая литература >>>](./boocks.md)
-16. `[Для тех, кто не любит читать ;)](./video.md)`
+16. **[Для тех, кто не любит читать ;)](./video.md)**
 
 
 [GIT logo by Jason Long](http://git-scm.com/downloads/logos)
